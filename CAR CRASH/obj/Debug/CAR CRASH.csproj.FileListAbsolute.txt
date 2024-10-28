@@ -1,0 +1,20 @@
+C:\Users\42077\source\repos\CAR CRASH\CAR CRASH\bin\Debug\CAR CRASH.exe.config
+C:\Users\42077\source\repos\CAR CRASH\CAR CRASH\bin\Debug\CAR CRASH.exe
+C:\Users\42077\source\repos\CAR CRASH\CAR CRASH\bin\Debug\CAR CRASH.pdb
+C:\Users\42077\source\repos\CAR CRASH\CAR CRASH\obj\Debug\CAR CRASH.csproj.AssemblyReference.cache
+C:\Users\42077\source\repos\CAR CRASH\CAR CRASH\obj\Debug\CAR_CRASH.Form1.resources
+C:\Users\42077\source\repos\CAR CRASH\CAR CRASH\obj\Debug\CAR_CRASH.Properties.Resources.resources
+C:\Users\42077\source\repos\CAR CRASH\CAR CRASH\obj\Debug\CAR CRASH.csproj.GenerateResource.cache
+C:\Users\42077\source\repos\CAR CRASH\CAR CRASH\obj\Debug\CAR CRASH.csproj.CoreCompileInputs.cache
+C:\Users\42077\source\repos\CAR CRASH\CAR CRASH\obj\Debug\CAR CRASH.exe
+C:\Users\42077\source\repos\CAR CRASH\CAR CRASH\obj\Debug\CAR CRASH.pdb
+C:\Users\42077\Desktop\Závěrečná práce\CAR CRASH\CAR CRASH\bin\Debug\CAR CRASH.exe.config
+C:\Users\42077\Desktop\Závěrečná práce\CAR CRASH\CAR CRASH\bin\Debug\CAR CRASH.exe
+C:\Users\42077\Desktop\Závěrečná práce\CAR CRASH\CAR CRASH\bin\Debug\CAR CRASH.pdb
+C:\Users\42077\Desktop\Závěrečná práce\CAR CRASH\CAR CRASH\obj\Debug\CAR CRASH.csproj.AssemblyReference.cache
+C:\Users\42077\Desktop\Závěrečná práce\CAR CRASH\CAR CRASH\obj\Debug\CAR_CRASH.Form1.resources
+C:\Users\42077\Desktop\Závěrečná práce\CAR CRASH\CAR CRASH\obj\Debug\CAR_CRASH.Properties.Resources.resources
+C:\Users\42077\Desktop\Závěrečná práce\CAR CRASH\CAR CRASH\obj\Debug\CAR CRASH.csproj.GenerateResource.cache
+C:\Users\42077\Desktop\Závěrečná práce\CAR CRASH\CAR CRASH\obj\Debug\CAR CRASH.csproj.CoreCompileInputs.cache
+C:\Users\42077\Desktop\Závěrečná práce\CAR CRASH\CAR CRASH\obj\Debug\CAR CRASH.exe
+C:\Users\42077\Desktop\Závěrečná práce\CAR CRASH\CAR CRASH\obj\Debug\CAR CRASH.pdb
